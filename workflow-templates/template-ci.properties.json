@@ -1,6 +1,6 @@
 {
     "name": "Iveylabs Organisation CI Workflow",
     "description": "Iveylabs Organisation CI workflow template.",
-    "iconName": "testlogo",
+    "iconName": "logo",
     "categories": ["Deployment"]
 }
