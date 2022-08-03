@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, World! 👋
+![HomerSimpsonGIF](https://user-images.githubusercontent.com/108822400/182566948-1e1351d4-e580-4447-a760-e4baf6cfc181.gif)
 
 <!--
 
