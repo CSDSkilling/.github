@@ -1,5 +1,8 @@
-## Hello, World! 👋
-![HomerSimpsonGIF](https://user-images.githubusercontent.com/108822400/182566948-1e1351d4-e580-4447-a760-e4baf6cfc181.gif)
+# Welcome to the Microsot CSD Skilling Org
+
+Repositories within this Org contain various innovation assets created my Microsoft Technical Trainers and shared with the MCT community for the benefit of Microsoft Certified Trainers and learners alike.   
+### Getting started
+Check out the [Index page](https://csdskilling.github.io/index/) for a list of all currently available assets for you to use.
 
 <!--
 
