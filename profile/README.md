@@ -1,4 +1,4 @@
-# Welcome to the Microsot CSD Skilling Org
+# Welcome to the Microsoft CSD Skilling Org
 
 Repositories within this Org contain various innovation assets created my Microsoft Technical Trainers and shared with the MCT community for the benefit of Microsoft Certified Trainers and learners alike.   
 ### Getting started
